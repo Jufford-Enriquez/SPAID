@@ -13,4 +13,10 @@
     <string name="informationNumber">Number Information</string>
     <string name="sign_up">Sign Up</string>
     <string name="log_in">Log In</string>
+    <string name="Address">Address</string>
+    <string name="contact_Person">Contact Person</string>
+    <string name="Gender">Gender</string>
+    <string name="number_Information">Number Information</string>
+    <string name="numberInformation">Number Information</string>
+    <string name="Name">Name</string>
 </resources>
